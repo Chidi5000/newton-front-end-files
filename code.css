@@ -1,0 +1,14 @@
+table 
+    {border:1px solid; #COO; }
+    h1{
+     color:black
+    }
+    *{
+     color:white;
+    }
+    ul em{
+     color: yellow;
+    }
+    #black{
+      #000000;
+    }
